@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ccbeb13a_2916d7f1",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1013872
+      },
+      "writtenOn": "2018-04-04T16:18:57Z",
+      "side": 1,
+      "message": "my first comment",
+      "revId": "ad7f75e52a31ac0f8a156aecd1d322d32e519e2f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6d5a5131_bb810bfe",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1013872
+      },
+      "writtenOn": "2018-04-04T16:18:57Z",
+      "side": 1,
+      "message": "looks nICE",
+      "range": {
+        "startLine": 26,
+        "startChar": 0,
+        "endLine": 26,
+        "endChar": 1
+      },
+      "revId": "ad7f75e52a31ac0f8a156aecd1d322d32e519e2f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
